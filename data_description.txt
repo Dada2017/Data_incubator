@@ -1,7 +1,7 @@
 Three datasets have been used here:
 1. Voting data ('usa-2016-presidential-election-by-county')
 https://data.opendatasoft.com/explore/dataset/usa-2016-presidential-election-by-county%40public/export/?disjunctive.state
-This is a public dataset of teh 2016 presidential election results by county
+This is a public dataset of the 2016 presidential election results by county
 
 2. Tweet data during the 2016 presidential election ('election_day_tweets.csv')
 https://www.kaggle.com/kinguistics/election-day-tweets#election_day_tweets.csv
