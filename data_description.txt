@@ -6,9 +6,13 @@ This is a public dataset of the 2016 presidential election results by county
 2. Tweet data during the 2016 presidential election ('election_day_tweets.csv')
 https://www.kaggle.com/kinguistics/election-day-tweets#election_day_tweets.csv
 
-I have collectecd a seperate dataset.
-This dataset is collected through Twitty (API) between 02 Feb 2019 and 04 Feb 2019. 
-It will be used to see the difference between tweets during election and normal time.
+I have collectecd a seperate dataset through Twitty (API) between 01 Feb 2019 and 04 Feb 2019. 
+It will be used to see the difference between tweets during election and normal time. It has been analyzed in the exploratory analysis. 
+This dataset can be downloaded from here:
+https://sciencedata.dk/shared/de70d75ac78d83e1df59a9b49239c3ba
+
+
+
 
 
 
