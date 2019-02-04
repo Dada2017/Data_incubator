@@ -8,7 +8,7 @@ https://www.kaggle.com/kinguistics/election-day-tweets#election_day_tweets.csv
 
 I have collectecd a seperate dataset.
 This dataset is collected through Twitty (API) between 02 Feb 2019 and 04 Feb 2019. 
-It will be used to see the difference between twits during election and normal time.
+It will be used to see the difference between tweets during election and normal time.
 
 
 
