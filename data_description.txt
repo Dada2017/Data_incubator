@@ -1,4 +1,4 @@
-Two datasets have been used here:
+Three datasets have been used here:
 1. Voting data ('usa-2016-presidential-election-by-county')
 https://data.opendatasoft.com/explore/dataset/usa-2016-presidential-election-by-county%40public/export/?disjunctive.state
 This is a public dataset of teh 2016 presidential election results by county
